@@ -227,6 +227,8 @@ Beautiful. Easy-to-use.
 * [秀米](https://xiumi.us/#/) 富文本。
 * [公众号 Phodal 专用编辑器](http://md.phodal.com/) Markdown。
 * [135编辑器](https://www.135editor.com/)
+* [超级微信电脑客户端，支持多开、防消息撤销、语音消息备份...开放WeChatSDK](https://github.com/anhkgg/SuperWeChatPC)
+
 
 ## 兼职机会
 * [实现网](https://shixian.com/)
